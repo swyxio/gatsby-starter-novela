@@ -1,0 +1,12 @@
+- name: Dennis Brotzky
+  bio: |
+    Written by You. This is where your author bio lives. Share your work, your
+    joys and of course, your Twitter handle.
+  avatar: ./avatars/dennis-brotzky.jpg
+  featured: true
+
+- name: Thiago Costa
+  bio: |
+    Written by You. This is where your author bio lives. Share your work, your
+    joys and of course, your Twitter handle.
+  avatar: ./avatars/thiago-costa.png
